@@ -4,11 +4,14 @@ Welcome to the official repository and documentation overview for **SalivaDB**, 
 
 **Web Server:** [https://webs.iiitd.edu.in/raghava/salivadb/](https://webs.iiitd.edu.in/raghava/salivadb/)
 
+
 ## Citation
 
 Arora, A., Kaur, D., Patiyal, S., Kaur, D., Tomer, R., & Raghava, G. P. S. (2023). 
 **SalivaDB-a comprehensive database for salivary biomarkers in humans.** *Database*, 2023, baad002. 
 [https://doi.org/10.1093/database/baad002](https://doi.org/10.1093/database/baad002)
+
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20078761
 
 ## About the Database
 
